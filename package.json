@@ -1,0 +1,15 @@
+{
+  "name": "onedimarray",
+  "version": "1.0.0",
+  "description": "one dim array static methods",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Marwan Duwaji",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
+}
