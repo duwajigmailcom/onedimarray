@@ -1,0 +1,1 @@
+This project was created to develop and test one dim array class
